@@ -1,0 +1,24 @@
+data/
+!data/.gitkeep  # Додаємо пустий файл .gitkeep для створення директорії data
+
+models/
+!models/.gitkeep  # Додаємо пустий файл .gitkeep для створення директорії models
+
+venv/
+
+.DS_Store
+Thumbs.db
+
+*.vscode/
+*.idea/
+
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+*.log
+*.tmp
+*.bak
